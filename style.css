@@ -1,0 +1,15 @@
+body {
+    margin: 0em;
+  }
+  
+  .cover {
+    height:400px;
+    background-image:url(https://raw.githubusercontent.com/JRC501/PrettyStore/master/pic/rsz_dise%C3%B1o_sin_t%C3%ADtulo.jpg);
+    color:white;
+    background-size: cover;
+    background-position:center;
+    background-color:rgb(0,0,0,0.23);
+    background-blend-mode: darken;
+  }
+  
+  
